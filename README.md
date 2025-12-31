@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taieba Sanjida</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh 🇧🇩</h3>
+<img width="1277" height="632" alt="image" src="https://github.com/user-attachments/assets/2ba53161-3954-4b15-929d-cf5677fb6616" />
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=taiebasanjida&label=Profile%20views&color=0e75b6&style=flat-square" alt="taiebasanjida" />
