@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taieba Sanjida</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh 🇧🇩</h3>
-<img width="1277" height="632" alt="image" src="https://github.com/user-attachments/assets/2ba53161-3954-4b15-929d-cf5677fb6616" />
+<img width="1002" height="267" alt="image" src="https://github.com/user-attachments/assets/55f5b3ea-a03e-41f6-815b-76b25a254a52" />
+
 
 
 <p align="center">
