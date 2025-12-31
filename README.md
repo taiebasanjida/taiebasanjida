@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Advanced Next.js & Redux**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, JavaScript, or Frontend Design**
-- 📫 How to reach me: **taiebasanjida@email.com** (আপনার ইমেইল দিন)
+- 📫 How to reach me: **taiebasanjida@gmail.com** 
 
 ---
 
